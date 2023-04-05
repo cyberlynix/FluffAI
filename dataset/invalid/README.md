@@ -1,0 +1,1 @@
+# The data here is stuff that the AI should not be able to recognize as Furry.
